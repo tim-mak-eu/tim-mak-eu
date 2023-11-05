@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Tim Mak
--  Analytics Engineer @ Wayfair Europe
+- 👋 Hi, I’m Tim
 - 📫 For contact, email me at tim.mak.eu(a)gmail.com
